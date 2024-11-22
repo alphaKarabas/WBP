@@ -19,11 +19,11 @@
 ### **Шаги установки**
 1. Склонируйте проект:
    ```bash
-   git clone https://github.com/your-repository/water-bucket-puzzle.git
+   git clone https://github.com/alphaKarabas/WBP.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd water-bucket-puzzle
+   cd WBP
    ```
 3. Установите зависимости:
    ```bash
